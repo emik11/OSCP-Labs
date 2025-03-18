@@ -3,7 +3,7 @@
 # Software Link: http://fastdl.mongodb.org/linux/mongodb-linux-i686-2.2.3.tgz
 # Version: 2.2.3
 
-# Automated by Emil Andrzejewski (https://github.com/em1c)
+# Automated by Emil Andrzejewski (https://github.com/emik11)
 
 import requests
 import urllib3
